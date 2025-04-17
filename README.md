@@ -1,2 +1,2 @@
 # ProfilePicFractal
-Fractal code used to make my github profile picture.
+Fractal code used to make my new github profile picture.
